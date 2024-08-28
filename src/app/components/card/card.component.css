@@ -1,0 +1,43 @@
+.divGeral{
+    margin: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    border: solid #000;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 50px;
+}
+
+.divLeft{
+
+}
+
+button{
+    background-color: white;
+    margin-top: 25px;
+    width: 100%;
+    color: black;
+    border-radius: 20px;
+    height: 25%;
+    font-size: 16px;
+}
+
+.divRight{
+    margin: 20px;
+}
+
+h2{
+    font-size: 38px;
+    font-family: Arial;
+    color: white
+}
+
+p{
+    color: white
+}
+
+img{
+    max-height: 200px;
+}

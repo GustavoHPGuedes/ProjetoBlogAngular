@@ -1,0 +1,14 @@
+.divPrincipal{
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 5pxpx;
+    border-top: 5px;
+    border-color: deeppink;
+}
+
+h1{
+    color: white;
+    font-family: Arial;
+    font-size: 100px;
+}
